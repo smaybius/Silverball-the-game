@@ -263,6 +263,7 @@ room_caption = "Beat the Clock!";</code>
     <instance objName="obj_st2wall" x="544" y="944" name="inst_395F15F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st2wall" x="528" y="944" name="inst_B5FA0458" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st2wall" x="512" y="944" name="inst_D486E69B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_st2wall" x="496" y="944" name="inst_EE86CAB2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st2wall" x="512" y="976" name="inst_DD5C2CB3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st2wall" x="528" y="1008" name="inst_DCF691CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st2wall" x="544" y="1040" name="inst_B711EF84" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -292,6 +293,7 @@ room_caption = "Beat the Clock!";</code>
     <instance objName="obj_st2wall" x="464" y="1184" name="inst_D8C706B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st2wall" x="448" y="1184" name="inst_D4A6B4A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st2wall" x="432" y="1184" name="inst_F47D77B0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_st2cont" x="176" y="1328" name="inst_73E37BF4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

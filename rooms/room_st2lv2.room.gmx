@@ -397,6 +397,7 @@ room_caption = "Evaporate";</code>
     <instance objName="obj_ball_entrance" x="512" y="1104" name="inst_681F9602" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_powerup_reversegs" x="496" y="1088" name="inst_A1833498" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_exit" x="256" y="176" name="inst_A03A00BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_st2cont" x="256" y="1280" name="inst_FB64C92A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

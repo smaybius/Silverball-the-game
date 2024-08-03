@@ -275,7 +275,6 @@ room_caption = "Hurry up!";</code>
     <instance objName="obj_st8wall" x="688" y="336" name="inst_169AA11C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st8wall" x="720" y="336" name="inst_A2B8AAB4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st8wall" x="48" y="496" name="inst_0CEDBB60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_st8wall" x="80" y="496" name="inst_DEB9DA98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st8wall" x="80" y="528" name="inst_B1A8E6DD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st8wall" x="96" y="560" name="inst_80655A87" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st8wall" x="112" y="592" name="inst_555D9169" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

@@ -401,7 +401,6 @@ room_caption = "Skeeball";</code>
     <instance objName="obj_fake_exit_untouched" x="560" y="304" name="inst_B92B5B7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_fake_exit_untouched" x="384" y="1040" name="inst_3DB582BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ball_entrance" x="352" y="128" name="inst_F68DA3F0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_st2cont" x="320" y="1296" name="inst_3E731627" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

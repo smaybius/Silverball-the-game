@@ -305,7 +305,6 @@ room_caption = "Falling up";</code>
     <instance objName="obj_st2wall" x="464" y="1168" name="inst_34C067DD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st2wall" x="480" y="1200" name="inst_C5BB23B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_exit" x="624" y="1104" name="inst_50029623" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_st2cont" x="272" y="1280" name="inst_6C98A02C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

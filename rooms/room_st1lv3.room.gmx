@@ -237,7 +237,6 @@ room_caption = "Squeezed to Fit";</code>
     <instance objName="obj_st1wall" x="208" y="528" name="inst_6BF58B13" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_exit" x="176" y="672" name="inst_AC642888" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_fake_exit_untouched" x="176" y="1104" name="inst_A52840FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_st1cont" x="256" y="1312" name="inst_7CA9C90C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

@@ -53,6 +53,7 @@
   <instances>
     <instance objName="obj_opening_cont" x="0" y="0" name="inst_FD8B1CB1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_opening_mp" x="160" y="1376" name="inst_47806899" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_game_cont" x="0" y="0" name="inst_B11EDF0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

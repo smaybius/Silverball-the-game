@@ -166,7 +166,7 @@
     <room>rooms\room_st5lv9</room>
     <room>rooms\room_st5lv10</room>
     <room>rooms\room_boss_cutsc1</room>
-    <room>rooms\room33</room>
+    <room>rooms\room_boss1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

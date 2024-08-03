@@ -76,7 +76,7 @@ global.current_stage = global.stage;
 
 //This overwrites the stage value
 ini_key_delete("Stages", "stage");
-ini_write_real("Stages", "stage", real(global.current_stage));
+ini_write_real(string("Stages"), string("stage"), global.current_stage);
 ini_close();
 </string>
           </argument>

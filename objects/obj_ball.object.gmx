@@ -97,11 +97,11 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>visible</string>
+            <string>image_alpha</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>true</string>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
@@ -173,7 +173,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>true</string>
+            <string>false</string>
           </argument>
         </arguments>
       </action>
@@ -519,7 +519,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>collect_invisible</string>
+            <string>collect_visible</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -633,11 +633,11 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>visible</string>
+            <string>image_alpha</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>true</string>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
@@ -787,11 +787,11 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>visible</string>
+            <string>image_alpha</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>false</string>
+            <string>0.01</string>
           </argument>
         </arguments>
       </action>
@@ -1823,7 +1823,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>instance_activate_all();
+            <string>//Incase anything happens
+instance_activate_all();
 </string>
           </argument>
         </arguments>

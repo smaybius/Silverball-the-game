@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>mus_lv2</sound>
+            <sound>mus_lv4</sound>
           </argument>
         </arguments>
       </action>
@@ -45,7 +45,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>mus_lv2</sound>
+            <sound>mus_lv4</sound>
           </argument>
           <argument>
             <kind>3</kind>

@@ -27,6 +27,8 @@
     <sprite>sprites\spr_st2wall</sprite>
     <sprite>sprites\spr_st3wall</sprite>
     <sprite>sprites\spr_st4wall</sprite>
+    <sprite>sprites\spr_st5wall1</sprite>
+    <sprite>sprites\spr_st5wall2</sprite>
     <sprite>sprites\spr_ball_entrance</sprite>
     <sprite>sprites\spr_exit</sprite>
     <sprite>sprites\spr_fake_exit</sprite>
@@ -115,6 +117,7 @@
     <object>objects\obj_bomb_powerup</object>
     <object>objects\obj_explosion_bomb</object>
     <object>objects\obj_block_wood</object>
+    <object>objects\obj_game_cont</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_intro</room>

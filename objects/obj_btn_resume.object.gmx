@@ -25,7 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>instance_activate_all();
+            <string>//Remove all the pause menu buttons and reactivate everything else
+instance_activate_all();
 with (obj_btn_save) instance_destroy();
 with (obj_btn_menu) instance_destroy();
 instance_destroy();

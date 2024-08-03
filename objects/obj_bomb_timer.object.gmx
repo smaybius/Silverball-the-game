@@ -313,9 +313,14 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>font = font_add_sprite(spr_fnt_dmd_scaled,48,false,1);
+            <string>//To display my own dot-matrix style text out of a sprite font
+//"48" means the font will start from Zero
+font = font_add_sprite(spr_fnt_dmd_scaled,48,false,1);
+//The color will be displayed white (doesn't work)
 draw_set_color(c_white);
+//Set the font to the sprite font
 draw_set_font(font);
+//The contdown number will be displayed using the "seconds" variable
 draw_text(x,y,seconds);
 </string>
           </argument>

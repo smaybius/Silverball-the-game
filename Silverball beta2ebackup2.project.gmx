@@ -127,6 +127,9 @@
     <object>objects\obj_game_cont</object>
     <object>objects\object51</object>
   </objects>
+  <timelines name="timelines">
+    <timeline>timelines\timeline_cutsc1</timeline>
+  </timelines>
   <rooms name="rooms">
     <room>rooms\room_intro</room>
     <room>rooms\room_menu</room>

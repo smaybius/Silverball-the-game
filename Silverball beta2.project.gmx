@@ -27,7 +27,10 @@
     <sprite>sprites\spr_fake_exit</sprite>
     <sprite>sprites\spr_powerup_shrink</sprite>
     <sprite>sprites\spr_powerup_reversegs</sprite>
-    <sprite>sprites\sprite13</sprite>
+    <sprite>sprites\spr_openingtransition</sprite>
+    <sprite>sprites\spr_fnt_dmd</sprite>
+    <sprite>sprites\spr_fnt_dmd_scaled</sprite>
+    <sprite>sprites\spr_bomb_timer</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -57,6 +60,8 @@
     <object>objects\obj_fake_exit_touched</object>
     <object>objects\obj_powerup_shrink</object>
     <object>objects\obj_powerup_reversegs</object>
+    <object>objects\obj_openingtransition</object>
+    <object>objects\obj_bomb_timer</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_intro</room>
@@ -67,6 +72,8 @@
     <room>rooms\room_st1lv4</room>
     <room>rooms\room_st1lv5</room>
     <room>rooms\room_st2lv1</room>
+    <room>rooms\room_st2lv2</room>
+    <room>rooms\room_st2lv3</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

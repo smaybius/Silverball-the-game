@@ -57,7 +57,6 @@
     <sprite>sprites\spr_explosion_bomb</sprite>
     <sprite>sprites\spr_block_wood</sprite>
     <sprite>sprites\spr_brilliadus</sprite>
-    <sprite>sprites\spr_brilliadus_cutsc</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -67,7 +66,7 @@
     <background>background\background_st3</background>
     <background>background\background_st4</background>
     <background>background\background_st5</background>
-    <background>background\background_boss1</background>
+    <background>background\background_boss</background>
   </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
@@ -129,7 +128,6 @@
     <object>objects\obj_block_wood</object>
     <object>objects\obj_game_cont</object>
     <object>objects\obj_brilliadus</object>
-    <object>objects\obj_brilliadus_cutsc</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline_cutsc1</timeline>
@@ -168,6 +166,7 @@
     <room>rooms\room_st5lv9</room>
     <room>rooms\room_st5lv10</room>
     <room>rooms\room_boss_cutsc1</room>
+    <room>rooms\room33</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

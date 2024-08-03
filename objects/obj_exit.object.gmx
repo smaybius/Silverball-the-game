@@ -61,8 +61,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>//This is for just incase the bomb reaches zero right when you reach for the exit
-instance_deactivate_object(obj_bomb_timer);
+            <string>instance_deactivate_object(obj_bomb_timer);
 </string>
           </argument>
         </arguments>

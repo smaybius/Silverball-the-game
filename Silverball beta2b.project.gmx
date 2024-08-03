@@ -63,6 +63,9 @@
     <background>background\background_st4</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\exit_game.gml</script>
+  </scripts>
   <fonts name="fonts">
     <font>fonts\fnt_opening1</font>
     <font>fonts\fnt_hud</font>

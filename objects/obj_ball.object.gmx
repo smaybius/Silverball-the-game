@@ -1823,8 +1823,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>//Incase anything happens
-instance_activate_all();
+            <string>instance_activate_all();
 </string>
           </argument>
         </arguments>

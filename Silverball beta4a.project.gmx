@@ -67,8 +67,11 @@
     <background>background\background_st3</background>
     <background>background\background_st4</background>
     <background>background\background_st5</background>
+    <background>background\background_boss1</background>
   </backgrounds>
-  <paths name="paths"/>
+  <paths name="paths">
+    <path>paths\path_boss_exit</path>
+  </paths>
   <fonts name="fonts">
     <font>fonts\fnt_opening1</font>
     <font>fonts\fnt_hud</font>
@@ -92,6 +95,7 @@
     <object>objects\obj_ball_entrance_st5</object>
     <object>objects\obj_wall_parent</object>
     <object>objects\obj_exit</object>
+    <object>objects\obj_exit_boss1</object>
     <object>objects\obj_exit_st1final</object>
     <object>objects\obj_exit_st2final</object>
     <object>objects\obj_exit_st3final</object>
@@ -126,7 +130,7 @@
     <object>objects\obj_explosion_bomb</object>
     <object>objects\obj_block_wood</object>
     <object>objects\obj_game_cont</object>
-    <object>objects\object51</object>
+    <object>objects\obj_brilliadus</object>
     <object>objects\obj_brilliadus_cutsc</object>
   </objects>
   <timelines name="timelines">
@@ -166,6 +170,7 @@
     <room>rooms\room_st5lv9</room>
     <room>rooms\room_st5lv10</room>
     <room>rooms\room_boss_cutsc1</room>
+    <room>rooms\room_boss1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

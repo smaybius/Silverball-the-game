@@ -12,6 +12,10 @@
     <sound>sound\snd_exit_fake</sound>
     <sound>sound\mus_lv2</sound>
     <sound>sound\snd_powerup</sound>
+    <sound>sound\mus_lv3</sound>
+    <sound>sound\mus_lv4</sound>
+    <sound>sound\snd_explosion</sound>
+    <sound>sound\mus_lv5</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_ball</sprite>
@@ -21,27 +25,48 @@
     <sprite>sprites\spr_btn_play</sprite>
     <sprite>sprites\spr_st1wall</sprite>
     <sprite>sprites\spr_st2wall</sprite>
+    <sprite>sprites\spr_st3wall</sprite>
+    <sprite>sprites\spr_st4wall</sprite>
     <sprite>sprites\sprite6</sprite>
     <sprite>sprites\spr_ball_entrance</sprite>
     <sprite>sprites\spr_exit</sprite>
     <sprite>sprites\spr_fake_exit</sprite>
+    <sprite>sprites\spr_fake_exit_finish</sprite>
     <sprite>sprites\spr_powerup_shrink</sprite>
+    <sprite>sprites\spr_powerup_normal</sprite>
+    <sprite>sprites\spr_powerup_grow</sprite>
+    <sprite>sprites\spr_powerup_balloon</sprite>
     <sprite>sprites\spr_powerup_reversegs</sprite>
+    <sprite>sprites\spr_powerup_normalgs</sprite>
+    <sprite>sprites\spr_powerup_invisible</sprite>
+    <sprite>sprites\spr_powerup_visible</sprite>
+    <sprite>sprites\spr_powerup_bomb</sprite>
     <sprite>sprites\spr_openingtransition</sprite>
     <sprite>sprites\spr_fnt_dmd</sprite>
     <sprite>sprites\spr_fnt_dmd_scaled</sprite>
     <sprite>sprites\spr_bomb_timer</sprite>
+    <sprite>sprites\spr_btn_resume</sprite>
+    <sprite>sprites\spr_btn_save</sprite>
+    <sprite>sprites\spr_btn_menu</sprite>
+    <sprite>sprites\spr_btn_load</sprite>
+    <sprite>sprites\spr_btn_leave</sprite>
+    <sprite>sprites\spr_bomb_powerup</sprite>
+    <sprite>sprites\spr_explosion_bomb</sprite>
+    <sprite>sprites\spr_block_wood</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
     <background>background\bg_st1</background>
     <background>background\bg_st2</background>
     <background>background\background_title</background>
+    <background>background\background_st3</background>
+    <background>background\background_st4</background>
   </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
     <font>fonts\fnt_opening1</font>
     <font>fonts\fnt_hud</font>
+    <font>fonts\fnt_exitnames</font>
   </fonts>
   <objects name="objects">
     <object>objects\obj_opening_cont</object>
@@ -51,17 +76,40 @@
     <object>objects\obj_controller</object>
     <object>objects\obj_st1wall</object>
     <object>objects\obj_st2wall</object>
+    <object>objects\obj_st3wall</object>
+    <object>objects\obj_st4wall</object>
     <object>objects\obj_ball</object>
     <object>objects\obj_ball_entrance</object>
     <object>objects\obj_wall_parent</object>
     <object>objects\obj_exit</object>
     <object>objects\obj_exit_st1final</object>
+    <object>objects\obj_exit_st2final</object>
+    <object>objects\obj_exit_st3final</object>
+    <object>objects\obj_exit_st4final</object>
     <object>objects\obj_fake_exit_untouched</object>
     <object>objects\obj_fake_exit_touched</object>
     <object>objects\obj_powerup_shrink</object>
+    <object>objects\obj_powerup_normal</object>
+    <object>objects\obj_powerup_grow</object>
+    <object>objects\obj_powerup_balloon</object>
     <object>objects\obj_powerup_reversegs</object>
+    <object>objects\obj_powerup_normalgs</object>
+    <object>objects\obj_powerup_invisible</object>
+    <object>objects\obj_powerup_visible</object>
+    <object>objects\obj_powerup_bomb</object>
     <object>objects\obj_openingtransition</object>
     <object>objects\obj_bomb_timer</object>
+    <object>objects\obj_btn_resume</object>
+    <object>objects\obj_btn_save</object>
+    <object>objects\obj_btn_menu</object>
+    <object>objects\obj_btn_load</object>
+    <object>objects\obj_btn_leave</object>
+    <object>objects\obj_st1cont</object>
+    <object>objects\obj_st2cont</object>
+    <object>objects\obj_st3cont</object>
+    <object>objects\obj_bomb_powerup</object>
+    <object>objects\obj_explosion_bomb</object>
+    <object>objects\obj_block_wood</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_intro</room>
@@ -74,6 +122,19 @@
     <room>rooms\room_st2lv1</room>
     <room>rooms\room_st2lv2</room>
     <room>rooms\room_st2lv3</room>
+    <room>rooms\room_st2lv4</room>
+    <room>rooms\room_st2lv5</room>
+    <room>rooms\room_st3lv1</room>
+    <room>rooms\room_st3lv2</room>
+    <room>rooms\room_st3lv3</room>
+    <room>rooms\room_st3lv4</room>
+    <room>rooms\room_st3lv5</room>
+    <room>rooms\room_st4lv1</room>
+    <room>rooms\room_st4lv2</room>
+    <room>rooms\room_st4lv3</room>
+    <room>rooms\room_st4lv4</room>
+    <room>rooms\room_st4lv5</room>
+    <room>rooms\room22</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

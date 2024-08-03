@@ -27,7 +27,6 @@
     <sprite>sprites\spr_st2wall</sprite>
     <sprite>sprites\spr_st3wall</sprite>
     <sprite>sprites\spr_st4wall</sprite>
-    <sprite>sprites\sprite6</sprite>
     <sprite>sprites\spr_ball_entrance</sprite>
     <sprite>sprites\spr_exit</sprite>
     <sprite>sprites\spr_fake_exit</sprite>
@@ -61,11 +60,9 @@
     <background>background\background_title</background>
     <background>background\background_st3</background>
     <background>background\background_st4</background>
+    <background>background\background_st5</background>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts">
-    <script>scripts\exit_game.gml</script>
-  </scripts>
   <fonts name="fonts">
     <font>fonts\fnt_opening1</font>
     <font>fonts\fnt_hud</font>
@@ -81,8 +78,11 @@
     <object>objects\obj_st2wall</object>
     <object>objects\obj_st3wall</object>
     <object>objects\obj_st4wall</object>
+    <object>objects\obj_st5wall1</object>
+    <object>objects\obj_st5wall2</object>
     <object>objects\obj_ball</object>
     <object>objects\obj_ball_entrance</object>
+    <object>objects\obj_ball_entrance_st5</object>
     <object>objects\obj_wall_parent</object>
     <object>objects\obj_exit</object>
     <object>objects\obj_exit_st1final</object>
@@ -110,6 +110,8 @@
     <object>objects\obj_st1cont</object>
     <object>objects\obj_st2cont</object>
     <object>objects\obj_st3cont</object>
+    <object>objects\obj_st4cont</object>
+    <object>objects\obj_st5cont</object>
     <object>objects\obj_bomb_powerup</object>
     <object>objects\obj_explosion_bomb</object>
     <object>objects\obj_block_wood</object>
@@ -137,7 +139,7 @@
     <room>rooms\room_st4lv3</room>
     <room>rooms\room_st4lv4</room>
     <room>rooms\room_st4lv5</room>
-    <room>rooms\room22</room>
+    <room>rooms\room_st5lv1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

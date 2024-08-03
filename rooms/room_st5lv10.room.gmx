@@ -11,7 +11,7 @@
   <colour>12632256</colour>
   <showcolour>-1</showcolour>
   <code>if (!sound_isplaying(mus_lv3)) sound_loop(mus_lv3);
-room_caption = "Six";</code>
+room_caption = "Five";</code>
   <enableViews>0</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>

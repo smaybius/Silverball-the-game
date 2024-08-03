@@ -25,6 +25,30 @@
         <arguments>
           <argument>
             <kind>1</kind>
+            <string>global.current_stage</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>1</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>611</id>
+        <kind>6</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
             <string>global.stage</string>
           </argument>
           <argument>
@@ -76,7 +100,7 @@ global.current_stage = global.stage;
 
 //This overwrites the stage value
 ini_key_delete("Stages", "stage");
-ini_write_real("Stages", "stage", real(global.current_stage));
+ini_write_real(string("Stages"), string("stage"), global.current_stage);
 ini_close();
 </string>
           </argument>

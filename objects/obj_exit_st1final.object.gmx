@@ -109,7 +109,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>instance_deactivate_object(obj_st1cont);
+            <string>//Obsolete
+instance_deactivate_object(obj_st1cont);
 </string>
           </argument>
         </arguments>

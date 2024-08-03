@@ -32,6 +32,7 @@
     <sprite>sprites\spr_opening_mp</sprite>
     <sprite>sprites\spr_null</sprite>
     <sprite>sprites\spr_nosoapradio</sprite>
+    <sprite>sprites\spr_jmtb02logo</sprite>
     <sprite>sprites\spr_btn_play</sprite>
     <sprite>sprites\spr_st1wall</sprite>
     <sprite>sprites\spr_st2wall</sprite>
@@ -117,6 +118,7 @@
     <object>objects\obj_opening_cont</object>
     <object>objects\obj_opening_mp</object>
     <object>objects\obj_nosoapradiologo</object>
+    <object>objects\obj_jmtb02logo</object>
     <object>objects\obj_btn_play</object>
     <object>objects\obj_controller</object>
     <object>objects\obj_st1wall</object>

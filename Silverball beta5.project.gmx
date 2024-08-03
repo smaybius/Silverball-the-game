@@ -69,9 +69,7 @@
     <background>background\background_st5</background>
     <background>background\background_boss1</background>
   </backgrounds>
-  <paths name="paths">
-    <path>paths\path_boss_exit</path>
-  </paths>
+  <paths name="paths"/>
   <fonts name="fonts">
     <font>fonts\fnt_opening1</font>
     <font>fonts\fnt_hud</font>
@@ -170,7 +168,6 @@
     <room>rooms\room_st5lv9</room>
     <room>rooms\room_st5lv10</room>
     <room>rooms\room_boss_cutsc1</room>
-    <room>rooms\room_boss1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

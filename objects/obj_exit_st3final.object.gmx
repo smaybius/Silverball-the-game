@@ -29,7 +29,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>4</string>
           </argument>
         </arguments>
       </action>
@@ -98,7 +98,7 @@ ini_close();
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>mus_lv2</sound>
+            <sound>mus_lv4</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -124,28 +124,6 @@ ini_close();
     <event eventtype="4" ename="obj_ball">
       <action>
         <libid>1</libid>
-        <id>603</id>
-        <kind>7</kind>
-        <userelative>0</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>2</exetype>
-        <functionname></functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>1</kind>
-            <string>//Obsolete
-instance_deactivate_object(obj_st1cont);
-</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
         <id>212</id>
         <kind>0</kind>
         <userelative>0</userelative>
@@ -160,7 +138,7 @@ instance_deactivate_object(obj_st1cont);
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>mus_lv1</sound>
+            <sound>mus_lv3</sound>
           </argument>
         </arguments>
       </action>
@@ -322,7 +300,7 @@ instance_deactivate_object(obj_st1cont);
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>Countergravitus</string>
+            <string>Point Verde</string>
           </argument>
           <argument>
             <kind>0</kind>

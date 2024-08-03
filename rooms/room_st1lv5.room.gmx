@@ -298,6 +298,7 @@ room_caption = "Pinball Bagatelle";</code>
     <instance objName="obj_st1wall" x="464" y="1120" name="inst_598A23E6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st1wall" x="464" y="1104" name="inst_6C7F6278" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st1wall" x="464" y="1088" name="inst_B66C5CED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_st1cont" x="160" y="1280" name="inst_FBB30E45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

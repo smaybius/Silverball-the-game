@@ -11,26 +11,6 @@
     <event eventtype="6" enumb="4">
       <action>
         <libid>1</libid>
-        <id>212</id>
-        <kind>0</kind>
-        <userelative>0</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>0</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_end_sound</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>6</kind>
-            <sound>mus_menu</sound>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
         <id>603</id>
         <kind>7</kind>
         <userelative>0</userelative>
@@ -45,14 +25,14 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if (file_exists("SilverballSaveData.sav"))
+            <string>if file_exists("SilverballSaveData")
 {
     sound_stop(mus_menu);
-    game_load("SilverballSaveData.sav");
+    game_load("SilverballSaveData");
 }
 else
 {
-    show_message("You haven't saved yet.#You can do that while playing by pressing 'Esc' to pause and then click 'Save'.");
+    show_message("You haven't saved yet");
 }
 </string>
           </argument>

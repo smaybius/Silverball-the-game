@@ -18,6 +18,7 @@
     <sound>sound\mus_lv5</sound>
     <sound>sound\mus_boss1</sound>
     <sound>sound\mus_boss_cutsc1</sound>
+    <sound>sound\snd_laser_boss</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_ball</sprite>
@@ -41,6 +42,7 @@
     <sprite>sprites\spr_powerup_balloon</sprite>
     <sprite>sprites\spr_powerup_reversegs</sprite>
     <sprite>sprites\spr_powerup_normalgs</sprite>
+    <sprite>sprites\spr_powerup_doublegs</sprite>
     <sprite>sprites\spr_powerup_invisible</sprite>
     <sprite>sprites\spr_powerup_visible</sprite>
     <sprite>sprites\spr_powerup_bomb</sprite>
@@ -57,6 +59,7 @@
     <sprite>sprites\spr_explosion_bomb</sprite>
     <sprite>sprites\spr_block_wood</sprite>
     <sprite>sprites\spr_brilliadus</sprite>
+    <sprite>sprites\spr_laser_boss</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -106,6 +109,7 @@
     <object>objects\obj_powerup_balloon</object>
     <object>objects\obj_powerup_reversegs</object>
     <object>objects\obj_powerup_normalgs</object>
+    <object>objects\obj_powerup_doublegs</object>
     <object>objects\obj_powerup_invisible</object>
     <object>objects\obj_powerup_visible</object>
     <object>objects\obj_powerup_bomb</object>
@@ -128,6 +132,8 @@
     <object>objects\obj_block_wood</object>
     <object>objects\obj_game_cont</object>
     <object>objects\obj_brilliadus</object>
+    <object>objects\obj_laser_boss</object>
+    <object>objects\obj_laser_boss_emitter</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline_cutsc1</timeline>
@@ -167,6 +173,8 @@
     <room>rooms\room_st5lv10</room>
     <room>rooms\room_boss_cutsc1</room>
     <room>rooms\room_boss1</room>
+    <room>rooms\room_boss1_p2</room>
+    <room>rooms\room_boss1_p3</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

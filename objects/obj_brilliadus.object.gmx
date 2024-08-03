@@ -3,8 +3,8 @@
   <spriteName>spr_brilliadus</spriteName>
   <solid>-1</solid>
   <visible>-1</visible>
-  <depth>0</depth>
-  <persistent>0</persistent>
+  <depth>3</depth>
+  <persistent>-1</persistent>
   <parentName>obj_wall_parent</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>

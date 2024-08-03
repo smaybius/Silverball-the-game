@@ -65,9 +65,11 @@
     <sprite>sprites\spr_powerup_dark</sprite>
     <sprite>sprites\spr_teleporter_in</sprite>
     <sprite>sprites\spr_teleporter_out</sprite>
+    <sprite>sprites\spr_powerup_cannonball_st10</sprite>
     <sprite>sprites\spr_openingtransition</sprite>
     <sprite>sprites\spr_blackfadetransit</sprite>
     <sprite>sprites\spr_fnt_dmd</sprite>
+    <sprite>sprites\spr_fnt_dmd_scaled_ext</sprite>
     <sprite>sprites\spr_fnt_dmd_scaled</sprite>
     <sprite>sprites\spr_bomb_timer</sprite>
     <sprite>sprites\spr_btn_resume</sprite>
@@ -86,6 +88,7 @@
     <sprite>sprites\spr_btn_continue</sprite>
     <sprite>sprites\spr_ferriswheel</sprite>
     <sprite>sprites\spr_fallingwall_barrier</sprite>
+    <sprite>sprites\spr_cannonball_st10</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -167,6 +170,7 @@
     <object>objects\obj_teleporter_in2</object>
     <object>objects\obj_teleporter_out</object>
     <object>objects\obj_teleporter_out2</object>
+    <object>objects\obj_powerup_cannonball_st10</object>
     <object>objects\obj_openingtransition</object>
     <object>objects\obj_blackfadetransit</object>
     <object>objects\obj_bomb_timer</object>
@@ -204,6 +208,8 @@
     <object>objects\obj_st10block_falling</object>
     <object>objects\obj_block_falling_parent</object>
     <object>objects\obj_fallingwall_barrier</object>
+    <object>objects\obj_cannonball_st10</object>
+    <object>objects\obj_cannonball_emitter</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline_cutsc1</timeline>
@@ -271,6 +277,7 @@
     <room>rooms\room_st10lv1</room>
     <room>rooms\room_st10lv2</room>
     <room>rooms\room_st10lv3</room>
+    <room>rooms\room_st10lv4</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

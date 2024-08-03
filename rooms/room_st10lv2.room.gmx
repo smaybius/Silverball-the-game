@@ -345,7 +345,7 @@ room_caption = "Cerulean";</code>
     <instance objName="obj_st10wall" x="512" y="384" name="inst_2CD7AB82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st10wall" x="512" y="416" name="inst_1D04D00D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st10wall" x="512" y="448" name="inst_4788F8A2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_st10movingwall_hor" x="368" y="336" name="inst_46CB36C1" locked="0" code="" scaleX="2.5" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_st10movingwall_hor" x="368" y="336" name="inst_46CB36C1" locked="0" code="" scaleX="1.5" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_st10wall" x="272" y="752" name="inst_05CA574C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_teleporter_in2" x="416" y="432" name="inst_09E6EFB1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_teleporter_out2" x="144" y="176" name="inst_61C4C93D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

@@ -16,6 +16,8 @@
     <sound>sound\mus_lv4</sound>
     <sound>sound\snd_explosion</sound>
     <sound>sound\mus_lv5</sound>
+    <sound>sound\mus_boss1</sound>
+    <sound>sound\mus_boss_cutsc1</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_ball</sprite>
@@ -54,6 +56,7 @@
     <sprite>sprites\spr_bomb_powerup</sprite>
     <sprite>sprites\spr_explosion_bomb</sprite>
     <sprite>sprites\spr_block_wood</sprite>
+    <sprite>sprites\spr_brilliadus</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -69,6 +72,7 @@
     <font>fonts\fnt_opening1</font>
     <font>fonts\fnt_hud</font>
     <font>fonts\fnt_exitnames</font>
+    <font>fonts\fnt_cutsc</font>
   </fonts>
   <objects name="objects">
     <object>objects\obj_opening_cont</object>
@@ -91,6 +95,7 @@
     <object>objects\obj_exit_st2final</object>
     <object>objects\obj_exit_st3final</object>
     <object>objects\obj_exit_st4final</object>
+    <object>objects\obj_exit_st5final</object>
     <object>objects\obj_fake_exit_untouched</object>
     <object>objects\obj_fake_exit_touched</object>
     <object>objects\obj_powerup_shrink</object>
@@ -114,10 +119,13 @@
     <object>objects\obj_st3cont</object>
     <object>objects\obj_st4cont</object>
     <object>objects\obj_st5cont</object>
+    <object>objects\obj_boss1_cutsc_cont</object>
+    <object>objects\obj_boss1cont</object>
     <object>objects\obj_bomb_powerup</object>
     <object>objects\obj_explosion_bomb</object>
     <object>objects\obj_block_wood</object>
     <object>objects\obj_game_cont</object>
+    <object>objects\object51</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_intro</room>
@@ -143,6 +151,16 @@
     <room>rooms\room_st4lv4</room>
     <room>rooms\room_st4lv5</room>
     <room>rooms\room_st5lv1</room>
+    <room>rooms\room_st5lv2</room>
+    <room>rooms\room_st5lv3</room>
+    <room>rooms\room_st5lv4</room>
+    <room>rooms\room_st5lv5</room>
+    <room>rooms\room_st5lv6</room>
+    <room>rooms\room_st5lv7</room>
+    <room>rooms\room_st5lv8</room>
+    <room>rooms\room_st5lv9</room>
+    <room>rooms\room_st5lv10</room>
+    <room>rooms\room_boss_cutsc1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
